@@ -1,0 +1,6 @@
+.venv/
+model/
+pics/
+Code_Table1.do
+data/cleaned_nlswork.dta
+data/Data.dta
